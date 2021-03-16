@@ -1,0 +1,10 @@
+{
+    "name": "krisawzm/embed",
+    "type": "october-plugin",
+    "description": "Plugin for OctoberCMS which provides easier-than-ever embedding of content from various sites and services. Optimized for Static Pages. See the Supported Providers list.",    
+    "license": "MIT",
+    "require": {
+        "php": ">=5.5.9",
+        "composer/installers": "~1.0"
+    }    
+}
